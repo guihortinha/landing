@@ -1,0 +1,26 @@
+.container {
+  color: white;
+  height: 200px;
+  width: 100%;
+}
+
+.container > a {
+  border-radius: 50px;
+  background: #5800FF;
+  padding: 16px 16px;
+  color: white;
+  margin: 16px;
+}
+
+.container > h2 {
+  margin: 36px 46px;
+}
+
+.container > h1 {
+  margin: 16px 16px;
+}
+
+.container > p {
+  margin: 16px 16px;
+  padding-bottom: 26px;
+}

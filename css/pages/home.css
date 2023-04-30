@@ -1,0 +1,22 @@
+.buttons {
+  display: flex;
+  background: black;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  width: 100vw;
+}
+
+.banner > .container {
+  margin: auto 16px;
+  padding: 16px 16px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
